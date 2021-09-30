@@ -1,0 +1,5 @@
+In boundaries ergänzen:
+
+	type            cyclicAMI;
+	neighbourPatch  in-contact_region_2-trg;
+	transform       noOrdering;
